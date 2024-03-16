@@ -1,0 +1,21 @@
+Dragões
+Transição: Geralmente, inicia-se com minions que fornecem benefícios imediatos enquanto gradualmente se coleta dragões que se beneficiam de aumentos permanentes de estatísticas.
+Heróis Recomendados: Kalecgos, Aspecto Mágico é o ponto de virada para muitas composições de dragões. Heróis como Alexstrasza, que pode fornecer acesso direto a dragões poderosos, também são excelentes.
+Piratas
+Transição: Focada em ganhar ouro extra e potencializar minions piratas por meio de combates. A transição para piratas muitas vezes depende de encontrar peças-chave que aumentem o ouro ou potencializem ataques.
+Heróis Recomendados: Patches, o Pirata é ótimo para estratégias piratas devido à sua habilidade de ganhar ouro extra. Capitão Gancho também é uma escolha sólida para maximizar o potencial de ataque dos piratas.
+Murlocs
+Transição: Murlocs são conhecidos pela capacidade de ganhar veneno e muitos escudos divinos no final do jogo. A transição geralmente envolve fortalecer seus murlocs com essas habilidades o mais rápido possível.
+Heróis Recomendados: Flurgl é ideal para murlocs, pois sua habilidade pode garantir a obtenção de murlocs-chave. Brann Bronzebeard, apesar de não ser um herói murloc, é extremamente útil para duplicar batalhas e efeitos de buff.
+Mecanoides
+Transição: Envolve construir um tabuleiro com sinergias entre mecanoides, especialmente aqueles que se beneficiam de invocar robôs ao morrer. Focar em minions que dão escudos divinos ou potencializam outros mecanoides é chave.
+Heróis Recomendados: O Curador, por oferecer um Amálgama no início, permite flexibilidade e sinergia imediatas com mecanoides. Mec'katorque também é excelente devido à sua habilidade de potencializar mecanoides.
+Demônios
+Transição: Estratégias com demônios geralmente se concentram em aumentar o ataque e a saúde dos seus minions. Encontrar o equilíbrio entre minions que se beneficiam de sacrifícios e aqueles que fornecem buffs permanentes é crucial.
+Heróis Recomendados: Illidan, por causa de sua habilidade que beneficia minions com ataques rápidos, é ótimo para demônios. O Rei Lich também pode ser eficaz ao dar Reborn a um demônio-chave.
+Feras
+Transição: Gira em torno de construir um tabuleiro que beneficie da morte de suas feras, gerando feras adicionais ou buffs. Goldrinn e o Par estável são peças-chave para muitas composições de feras.
+Heróis Recomendados: Maiev Cantonegro é forte com feras devido à sua habilidade de temporariamente tirar minions do jogo e trazê-los de volta com stats aumentados, potencializando a sinergia com o Par estável.
+Elementais
+Transição: Focada em maximizar a geração de stats através de vendas e compras de elementais. Peças-chave incluem elementais que aumentam estatísticas a cada ação de compra/venda.
+Heróis Recomendados: Ragnaros é excelente para uma estratégia de elementais, pois sua habilidade pode rapidamente fortalecer seu tabuleiro. Nomi, Cozinheiro da Cozinha é uma peça-chave para transições bem-sucedidas em composições de elementais.
